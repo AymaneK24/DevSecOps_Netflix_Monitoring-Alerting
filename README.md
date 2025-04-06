@@ -33,7 +33,7 @@
 ###  Clone the Code
 from : 
 ```bash
-git clone https://github.com/N4si/DevSecOps-Project.git
+git clone https://github.com/Aj7Ay/Netflix-clone.git
 ```
 ###  Install Docker & Run the App
 
@@ -119,7 +119,7 @@ Access Jenkins at: `http://<EC2_PUBLIC_IP>:8080`
 
 ---
 
-## 🔌 Jenkins Plugin Installation
+##  Jenkins Plugin Installation
 
 install this plugins : 
 
@@ -273,7 +273,7 @@ For visualization, we use Grafana, a widely-used tool for creating real-time das
 
 
 
- ## Phase 5: Notification
+ ##  Notification
 
 Jenkins Notifications : 
 You go first and turn your eamil into 2FA in settings and you go create a password foe an app you name netflix in gmail for example.
@@ -283,3 +283,8 @@ in jenkins system, you configure settings of email and email extended with `smtp
 then you test you should receive an email with test in it.
 
 Go to settings of your piplibe and add post action  with your email in it, it's all here.
+
+
+## Contact 
+
+`aymanekenbouch@gmail.com`
