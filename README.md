@@ -276,7 +276,7 @@ For visualization, we use Grafana, a widely-used tool for creating real-time das
  ##  Notification
 
 Jenkins Notifications : 
-You go first and turn your eamil into 2FA in settings and you go create a password foe an app you name netflix in gmail for example.
+You go first and turn your eamil into 2FA in settings and you go create a password for an app you name netflix in gmail for example.
 
 in jenkins system, you configure settings of email and email extended with `smtp.gmail.com`  in the server name , and the rest you know it's easy.
 
